@@ -11,7 +11,7 @@ O projeto tem como objetivo explorar a criação de interfaces modernas e imersi
   <img src="img/previewEstrangeiros.png" alt="Prévia da Landing Page Califórnia" width="900">
 </p>
 
-🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto29Proa-SitedeEstadosEstrangeiros/)**
+🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto29Proa-SobreCalifornia/)**
 
 ## Funcionalidades e características
 
@@ -45,7 +45,7 @@ Durante o desenvolvimento, foram praticados conceitos como:
 
 ## 📂 Como executar o projeto
 
-🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto29Proa-SitedeEstadosEstrangeiros/)**
+🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto29Proa-SobreCalifornia/)**
 
 ---
 
